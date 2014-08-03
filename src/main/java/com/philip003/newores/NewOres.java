@@ -76,7 +76,7 @@ public class NewOres {
 	public static CommonProxy proxy;
 
 	public static final String MODID = "newores";
-	public static final String VERSION = "9.11";
+	public static final String VERSION = "3.14159";
 	public static final String NAME = "New Ores";
 
 	@Instance(MODID)
