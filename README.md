@@ -1,4 +1,4 @@
-New-Ores-mod
+New Ores mod
 ============
 
 Minecraft Forge 1.7.2
