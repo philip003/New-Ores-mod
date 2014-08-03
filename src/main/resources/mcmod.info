@@ -1,0 +1,16 @@
+[
+{
+  "modid": "newores",
+  "name": "New Ores",
+  "description": "Adding the most unnecessary stuff you've seen in a while!",
+  "version": "9.11",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["philip003"],
+  "credits": "Philip 'philip003' Lozanoski",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
