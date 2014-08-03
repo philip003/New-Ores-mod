@@ -9,9 +9,5 @@ public class ClientProxy extends CommonProxy {
 
 	@Override
 	public void registerRenderers() {
-		if (ModEntityRegistry.jungleSpiderID > 0) {
-			RenderingRegistry.registerEntityRenderingHandler(
-					EntityJungleSpider.class, new RenderJungleSpider());
-		}
 	}
 }
